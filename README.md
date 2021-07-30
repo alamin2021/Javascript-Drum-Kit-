@@ -7,5 +7,5 @@
 -  Download Dom kit sound From Website
 
 - [x] #739
-**  hell o **
+**hell o **
 - [ ] Add delight to the experience when all tasks are complete :tada:
